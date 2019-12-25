@@ -3,7 +3,7 @@ This is a pyTorch implementation of conditional GAN
 
 We use the deep convolution operation to construct the model instead of the multi perception.
 
-![image](https://github.com/CNHNLP/cGAN/tree/master/png/9_450.png)
+![Image text](https://github.com/CNHNLP/cGAN/tree/master/png/9_450.png)
 
 
 
@@ -13,7 +13,7 @@ We use the deep convolution operation to construct the model instead of the mult
 
 The Loss cures of generator and discriminator
 
-![image](https://github.com/CNHNLP/cGAN/tree/master/png/Loss.png)
+![Image text](https://github.com/CNHNLP/cGAN/tree/master/png/Loss.png)
 
 
 
